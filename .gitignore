@@ -1,0 +1,15 @@
+# Binaries
+server
+sandbox-api
+*.test
+*.out
+
+# OS specific checks
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Go
+vendor/
